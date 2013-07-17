@@ -1,6 +1,6 @@
 #include <Esplora.h>
 
-// calibration constants between the light sensor and L brightness
+// calibration constants between the light sensor and LED brightness
 int lightMin = 0;
 int lightMax = 1023;
 
